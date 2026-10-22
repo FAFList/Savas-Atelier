@@ -1,5 +1,7 @@
-void setup() {
+#include "src/plantlib.h"
 
+void setup() {
+  hello();
 }
 
 
